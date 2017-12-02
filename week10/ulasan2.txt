@@ -1,0 +1,18 @@
+     Ulasan kali ini akan membahas tentang sebuah video dari situs YouTube yang berjudul “5 of the Worst Computer Viruses Ever”. Video ini di-upload pada tanggal 26 Juni 2016 oleh user Scishow. Video ini berdurasi 9 menit 36 detik dan sudah ditonton lebih dari 3 juta kali per pembuatan ulasan ini.
+
+Ringkasan :
+Virus komputer terburuk dan berpengarus banyak sepanjang sejarah ada 5 yaitu :
+1. Mellisa Virus
+2. ILOVEYOU Virus
+3. SQL Slammer
+4. 2007 STORM WORM
+5. MEBROOT/TORPIG
+
+Informasi :
+Github Account : mochaul
+URL Ulasan : http://2ez4adz.blogspot.co.id/2017/12/5-virus-komputer-terburuk.html
+URL Video : https://youtu.be/DF8Ka8Jh0BQ (9 menit 36 detik)
+Video Author : Scishow
+Pemetaan : week02
+Revisi Pertama : 2 Desember 2017
+Revisi Terakhir : 2 Desember 2017

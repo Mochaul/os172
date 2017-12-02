@@ -1,0 +1,14 @@
+     Ulasan kali ini akan membahas tentang sebuah video dari situs YouTube yang berjudul “The Bitcoin and Blockchain Technology Explained”. Video ini di-upload pada tanggal 23 Juni 2015 oleh user Rodrigo Henrik. Video ini berdurasi 6 menit 15 detik dan sudah ditonton lebih dari 270 ribu kali per pembuatan ulasan ini.
+
+Ringkasan :
+A block chain is a transaction database shared by all nodes participating in a system based on the Bitcoin protocol. A full copy of a currency's block chain contains every transaction ever executed in the currency. With this information, one can find out how much value belonged to each address at any point in history.
+
+Informasi :
+Github Account : mochaul
+URL Ulasan : http://2ez4adz.blogspot.com/2017/12/teknologi-bitcoin-dan-blockchain.html
+URL Video : https://youtu.be/oSP-taqLWPQ (6 menit 15 detik)
+Video Author : Rodrigo Henrik
+Pemetaan : week10
+Revisi Pertama : 2 Desember 2017
+Revisi Terakhir : 2 Desember 2017
+
