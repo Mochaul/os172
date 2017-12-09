@@ -1,0 +1,14 @@
+RANKING05 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W05-006] 370 https://myosstory.blogspot.co.id/2017/12/ulasan-1-least-recently-used-lru.html
+02. [W05-004] 365 http://paraprodoskian.blogspot.co.id/2017/11/ulasan-1-fragmentation.html
+03. [W05-002] 360 http://ryannaufalp.blogspot.co.id/2017/11/ulasan-1-memory-manager.html
+04. [W05-003] 355 https://rand0101int.blogspot.co.id/2017/11/ulasan2-virtual-memory-5-page-tables.html
+05. [W05-005] 355 https://variel-os.blogspot.co.id/2017/11/blog-post.html
+-------------------------------------------
+Oleh (GITHUB): mochaul
+URL BLOG RANKING: https://2ez4adz.blogspot.co.id/2017/12/ranking-week05.html
+Revisi Pertama: 6 Desember 2017
+Revisi Terakhir: 6 Desember 2017
+-------------------------------------------
+
